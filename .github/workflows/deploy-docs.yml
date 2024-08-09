@@ -45,7 +45,7 @@ jobs:
           > src/.vuepress/dist/.nojekyll
           
       - name: Create CNAME File
-        run: echo 'zentity.xufeiran.cc' > src/.vuepress/dist/CNAME
+        run: echo 'xufeiran.cc' > src/.vuepress/dist/CNAME
         
       - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4
