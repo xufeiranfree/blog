@@ -44,9 +44,9 @@ export const enNavbar = navbar([
   //     "strawberry",
   //   ],
   // },
-  // {
-  //   text: "V2 Docs",
-  //   icon: "book",
-  //   link: "https://theme-hope.vuejs.press/",
-  // },
+  {
+    text: "Pull Requests",
+    icon: "https://api.iconify.design/icon-park-outline/pull-requests.svg",
+    link: "/pr/",
+  },
 ]);

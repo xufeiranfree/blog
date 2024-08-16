@@ -44,9 +44,9 @@ export const zhNavbar = navbar([
   //     "strawberry",
   //   ],
   // },
-  // {
-  //   text: "V2 文档",
-  //   icon: "book",
-  //   link: "https://theme-hope.vuejs.press/zh/",
-  // },
+  {
+    text: "拉取请求",
+    icon: "https://api.iconify.design/icon-park-outline/pull-requests.svg",
+    link: "/zh/pr/",
+  },
 ]);
