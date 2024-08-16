@@ -1,3 +1,3 @@
 # Merged Pull Requests
 
-- <img src="https://api.iconify.design/devicon/java-wordmark.svg" width="20" height="20" style="vertical-align: middle;"> [ripmeapp2/ripme #189](https://github.com/ripmeapp2/ripme/pull/189)
+- [ripmeapp2/ripme #189](https://github.com/ripmeapp2/ripme/pull/189) ![GitHub top language](https://img.shields.io/github/languages/top/ripmeapp2/ripme) ![GitHub Repo stars](https://img.shields.io/github/stars/ripmeapp2/ripme?style=flat)
